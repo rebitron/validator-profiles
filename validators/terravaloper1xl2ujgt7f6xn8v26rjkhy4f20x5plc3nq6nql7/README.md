@@ -1,5 +1,5 @@
 ---
-Moniker: LunaRewards.com
+Moniker: Luna Rewards
 Validator: terravaloper1xl2ujgt7f6xn8v26rjkhy4f20x5plc3nq6nql7
 Email: contact@lunarewards.com
 ---
